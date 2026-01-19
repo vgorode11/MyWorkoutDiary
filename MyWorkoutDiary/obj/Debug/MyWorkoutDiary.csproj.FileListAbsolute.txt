@@ -1,0 +1,11 @@
+C:\Users\zita-\OneDrive\Рабочий стол\трени прога\MyWorkoutDiary\MyWorkoutDiary\obj\Debug\MyWorkoutDiary.csproj.AssemblyReference.cache
+C:\Users\zita-\OneDrive\Рабочий стол\трени прога\MyWorkoutDiary\MyWorkoutDiary\obj\Debug\MyWorkoutDiary.MainForm.resources
+C:\Users\zita-\OneDrive\Рабочий стол\трени прога\MyWorkoutDiary\MyWorkoutDiary\obj\Debug\MyWorkoutDiary.Properties.Resources.resources
+C:\Users\zita-\OneDrive\Рабочий стол\трени прога\MyWorkoutDiary\MyWorkoutDiary\obj\Debug\MyWorkoutDiary.csproj.GenerateResource.cache
+C:\Users\zita-\OneDrive\Рабочий стол\трени прога\MyWorkoutDiary\MyWorkoutDiary\obj\Debug\MyWorkoutDiary.csproj.CoreCompileInputs.cache
+C:\Users\zita-\OneDrive\Рабочий стол\трени прога\MyWorkoutDiary\MyWorkoutDiary\bin\Debug\MyWorkoutDiary.exe.config
+C:\Users\zita-\OneDrive\Рабочий стол\трени прога\MyWorkoutDiary\MyWorkoutDiary\bin\Debug\MyWorkoutDiary.exe
+C:\Users\zita-\OneDrive\Рабочий стол\трени прога\MyWorkoutDiary\MyWorkoutDiary\bin\Debug\MyWorkoutDiary.pdb
+C:\Users\zita-\OneDrive\Рабочий стол\трени прога\MyWorkoutDiary\MyWorkoutDiary\obj\Debug\MyWorkoutDiary.exe
+C:\Users\zita-\OneDrive\Рабочий стол\трени прога\MyWorkoutDiary\MyWorkoutDiary\obj\Debug\MyWorkoutDiary.pdb
+C:\Users\zita-\OneDrive\Рабочий стол\трени прога\MyWorkoutDiary\MyWorkoutDiary\obj\Debug\MyWorkoutDiary.exe.config
